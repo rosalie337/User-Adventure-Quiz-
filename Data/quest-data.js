@@ -221,7 +221,7 @@ const economicMobility = [
 
 ];
 
-export default quest;
+export default quests;
 
 //Render a list of questions based on metadata
     //get the ul from the DOM
